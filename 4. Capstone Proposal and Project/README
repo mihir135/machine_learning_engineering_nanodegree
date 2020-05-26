@@ -1,0 +1,17 @@
+#dataset file - Churn_Modelling.csv
+#final project notebook - churn_final.ipynb
+#final project exported html - churn_final.html
+#proposal file - proposal.pdf
+#project report file - report.pdf
+#proposal review URL - https://review.udacity.com/#!/reviews/2274239
+
+#Required Libraries
+numpy
+pandas
+matplotlib
+seaborn
+keras
+tensorflow
+sklearn
+
+#tensorflow version should be 1.14.0
